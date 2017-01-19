@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c83b65600324b67ab5c4ca02e9a7e7f0661b6caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="04b988ce38f80d6daa13f9c342cc317e86c660bf">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a419c73a888d422f696120a6f1c5a2b7bfdc5a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_0cd925e1f958319f0a531f3da9b43a14bf96ddc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_cad99a2a7a0ebaa8f93a6f42544196ba8eefe5a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ed07fb18fd8eea4f5663535317e86f25c076be65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2587c449e0bc26a6551c8538f1b13a71ea7cb148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_21e6f1595a171a86e94b3d320cb8c1963a771e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e784534890cbbb56210fcbfcffac559bd89b5431">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3c779993c160dda47b43d59c6e925b3b75fa1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_45d4306fe0cf79dec2c9b975a445a69a6b4ef1d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6f5e1c46bc20a7e20633818d548c182d95d21e73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f69f660fc1bc4c8a5dfd59074591c7efde71a634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e0083fea4ac93b947b3b7473c02bd169fb26a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9a1722595e639b9c236b13ced2f9866f094c6203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_60d17d76f6e8dc681cff6b6f62dfde8ea64b68dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_10643bd273719be4838fe8f6c7654826069c1233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5f3923a43ae0c7ae387fba9ddb2546121ee4b078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/tricia/conu/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a3aed9ca945362794fb9fa10d25f81a64eb120fc/classes.dex" />
+    </item>
+
+</items>
